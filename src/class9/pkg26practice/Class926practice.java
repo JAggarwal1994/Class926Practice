@@ -39,7 +39,7 @@ public class Class926practice {
         System.out.println("");
         System.out.println("Sum: " + sum);
         System.out.println("Average: " + sum/count);
-        System.out.println("Min: " + Math.floor(userArray[i]));
-        System.out.println("Max: " + Math.ceil(userArray[i]));
+        System.out.println("Min: ");
+        System.out.println("Max: ");
     }
 }
